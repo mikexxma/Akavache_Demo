@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkavacheTest", "AkavacheTest\AkavacheTest.csproj", "{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "NuGet", "..\..\Users\v-mxiaox\Downloads\Akavache-develop\Akavache-develop\tools\nuget\NuGet.exe", "{A77ABCD9-F65A-44B5-A6C9-A44D1679FB7A}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\v-mxiaox\Downloads\Akavache-develop\Akavache-develop\tools\nuget\NuGet.exe
+		RemoteMachine = CNV-MXIAOX-W10
+		StartingDirectory = C:\Users\v-mxiaox\Downloads\Akavache-develop\Akavache-develop\tools\nuget
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Release|x86.Build.0 = Release|Any CPU
+		{D9C667BB-F15C-44D8-8D00-FE9016BBD3DE}.Release|x86.Deploy.0 = Release|Any CPU
+		{A77ABCD9-F65A-44B5-A6C9-A44D1679FB7A}.Debug|Any CPU.ActiveCfg = Release|x86
+		{A77ABCD9-F65A-44B5-A6C9-A44D1679FB7A}.Debug|x86.ActiveCfg = Release|x86
+		{A77ABCD9-F65A-44B5-A6C9-A44D1679FB7A}.Release|Any CPU.ActiveCfg = Release|x86
+		{A77ABCD9-F65A-44B5-A6C9-A44D1679FB7A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
